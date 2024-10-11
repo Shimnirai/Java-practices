@@ -5,6 +5,6 @@ public class Constr1 {
 
     public static void main(String[] args) {
         Constr1 a = new Constr1();
-    }
+   }
 
 }
